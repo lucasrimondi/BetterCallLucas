@@ -41,5 +41,5 @@ CRA / React / Redux (thunk - ducks) / HTML5 / CSS3 / JS / Firebase (login - stor
 <br>
 
 <div align="center">
-  <h2><i>"If you are looking for a detail-oriented front end dev... Better Call Lucas"</i></h2>
+  <h2><i>"If you are looking for a detail-oriented frontend dev... Better Call Lucas"</i></h2>
 </div>
