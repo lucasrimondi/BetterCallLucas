@@ -4,10 +4,10 @@
 </div>
 
 ## About 📝
-'Better Call Lucas' is a personal project made with React - Redux. It is a fully responsive webapp that works like 'Tinder': after you log in, characters from the Breaking Bad universe will be shown in the home page and you can add the ones you like to your 'favourites' section. If not, you can press 'next'. The characters and all their information are fetched from a free API called <a href="https://www.breakingbadapi.com/">breakingbadapi.com</a>.  
+'Better Call Lucas' is a personal project made with React - Redux. It is a fully responsive webapp that works like 'Tinder': after you log in, characters from the Breaking Bad universe will be shown in the home page and you can add the ones you like to your 'favourites' section. If not, you can press 'next'. The characters and all their information are fetched using axios from a free API called <a href="https://www.breakingbadapi.com/">breakingbadapi.com</a>.  
 
 ## Technologies and tools :computer:
-CRA / React / Redux (thunk - ducks) / HTML5 / CSS3 / JS / Firebase (login - storage - deploy)/ yarn - git (for deployment) / <a href="https://fontawesome.com/">FontAwesome</a>
+CRA / React / Redux (thunk - ducks) / HTML5 / CSS3 / JS / Firebase (login - storage - deploy)/ axios / yarn - git (for deployment) / <a href="https://fontawesome.com/">FontAwesome</a>
 
 ## Deployment 🖥️ 📲
 <a href="https://bettercalllucas-af50c.web.app/">Better Call Lucas</a> (firebase page link)
@@ -24,7 +24,7 @@ CRA / React / Redux (thunk - ducks) / HTML5 / CSS3 / JS / Firebase (login - stor
 <img width="450" src="https://user-images.githubusercontent.com/87493125/137631301-5ec18722-a42a-4d4b-afb5-e319f76c1bb2.gif">
 </div>
 <br>
-📌 Cards rendered for every character fetched from the API and rendered in the 'favs' section, after you like them, with all their personal data (using Redux store and actions in ducks). <br><br>
+📌 Cards rendered for every character fetched from the API (using axios) and rendered in the 'favs' section, after you like them, with all their personal data (using Redux store and actions in ducks). <br><br>
 <div align="center">
 <img width="450" src="https://user-images.githubusercontent.com/87493125/137632443-f2f0ee23-0e43-4344-99a4-48a073328277.gif">
 </div>
