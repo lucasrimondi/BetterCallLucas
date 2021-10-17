@@ -35,7 +35,6 @@ function saveStorage(storage){
     localStorage.storage = JSON.stringify(storage)
 }
 
-
 //////ACTIONS/////
 export let doGoogleLoginAction = () => (dispatch, getState) => {
     dispatch({

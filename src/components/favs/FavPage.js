@@ -29,6 +29,7 @@ function mapStateToProps({characters}){
     }
 }
 
+
 export default connect(mapStateToProps)(FavPage) 
 
 

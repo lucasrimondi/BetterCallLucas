@@ -20,6 +20,5 @@ export default function generateStore(){
     restoreSessionAction()(store.dispatch)
     restoreFavsAction()(store.dispatch)
     
-    return store
-    
+    return store 
 }

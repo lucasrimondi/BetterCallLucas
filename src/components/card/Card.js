@@ -14,7 +14,7 @@ export default function Card({
         <div className={styles.container}>
             <div className={styles.card}>
                 {hide && <div className={styles.ribbon}><span>&#9733;</span></div>}
-                <img alt="img" src={img} />
+                <img alt="img" src={img}/>
                 <p className={styles.name}>
                 <b>{name}</b>
                 </p>

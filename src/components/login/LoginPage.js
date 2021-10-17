@@ -5,6 +5,7 @@ import {doGoogleLoginAction, logOutAction} from "../../redux/userDuck"
 import logo from '../../assets/logo.png'
 import FontAwesome from 'react-fontawesome'
 import gloader from '../../assets/gloader.gif'
+
 function LoginPage({fetching, loggedIn, logOutAction, doGoogleLoginAction, email}) {
 
     function doLogin(){

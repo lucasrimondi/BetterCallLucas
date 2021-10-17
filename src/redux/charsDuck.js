@@ -47,7 +47,6 @@ export default function reducer(state=initialData, action){
     }
 }
 
-
 //////ACTIONS (THUNK) ///// 
 export function getCharactersAction(){
     return (dispatch, getState) => {     

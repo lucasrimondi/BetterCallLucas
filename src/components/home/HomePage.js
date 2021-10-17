@@ -46,4 +46,5 @@ function mapStateToProps(state){
        } 
 }
 
+
 export default connect(mapStateToProps, {nextCharacterAction, addToFavouritesAction})(Home)

@@ -4,16 +4,21 @@
 </div>
 
 ## About 📝
-'Better Call Lucas' is a personal project made with React - Redux. It is a fully responsive webapp that works like a 'Breaking Bad's fan Tinder': after you log in, characters from the Breaking Bad universe will be shown in the home page and you can add the ones you like to your 'favourites' section. If not, you can press 'next'. The characters and all their information are fetched using axios from a free API called <a href="https://www.breakingbadapi.com/">breakingbadapi.com</a>.  
+
+'Better Call Lucas' is a personal project made with React - Redux. It is a fully responsive webapp that works like a 'Breaking Bad's Tinder': after you log in, characters from the Breaking Bad universe will be shown in the home page and you can add the ones you like to your 'favourites' section. If not, you can press 'next'. Characters and all their information are fetched using axios from a free API called <a href="https://www.breakingbadapi.com/">breakingbadapi.com</a>.
 
 ## Technologies and tools :computer:
+
 CRA / React / Redux (thunk - ducks) / HTML5 / CSS3 / JS / Firebase (login - storage - deploy)/ axios / yarn - git (for deployment) / <a href="https://fontawesome.com/">FontAwesome</a>
 
 ## Deployment 🖥️ 📲
+
 <a href="https://bettercalllucas-af50c.web.app/">Better Call Lucas</a> (firebase page link)
 
 ## Some Features 🔧
-📌 Login with Google (Firebase). <br> 
+
+📌 Login with Google (Firebase). <br>
+
 <div align="center">
 <img width="450" src="https://user-images.githubusercontent.com/87493125/137630979-d016d7a6-6d2b-4ff8-b978-078158f1859e.gif">
 </div>

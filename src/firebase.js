@@ -16,7 +16,7 @@ const firebaseConfig = {
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig)
 
-//DATABASE
+//DATABASE//
 let db = firebase.firestore().collection('favs')
 
 export function updateDB(favourites, uid){
@@ -31,7 +31,7 @@ export function getFavsFromDB(uid){
 }
 
 
-//LOGIN FUNCTIONS
+//LOGIN FUNCTIONS//
 export function loginWithGoogle(){
     let provider = new firebase.auth.GoogleAuthProvider()
     return firebase.auth().signInWithPopup(provider)

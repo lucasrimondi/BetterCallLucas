@@ -2,7 +2,6 @@
   font-family: bbfont;
   src: url("../../assets/bbfont.ttf");
 }
-
 .container {
   width: 100%;
   display: flex;
@@ -10,7 +9,6 @@
   flex-direction: column;
   align-items: center;
 }
-
 .container button {
   padding: 12px 30px;
   border: none;
@@ -29,13 +27,11 @@
   color: white;
   border: 2px solid transparent;
 }
-
 .logo {
   width: 28%;
   margin-bottom: 20px;
   margin-top: 10px;
 }
-
 .welcome {
   font-family: bbfont !important;
   text-align: center;
