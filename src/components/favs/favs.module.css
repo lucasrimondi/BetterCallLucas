@@ -1,0 +1,75 @@
+@font-face {
+  font-family: bbfont;
+  src: url("../../assets/bbfont.ttf");
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.favslogo {
+  width: 28%;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+@media screen and (max-width: 1450px) {
+  .favslogo {
+    width: 28%;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .favslogo {
+    width: 30%;
+  }
+}
+@media screen and (max-width: 1230px) {
+  .favslogo {
+    width: 33%;
+  }
+}
+@media screen and (max-width: 1080px) {
+  .favslogo {
+    width: 38%;
+  }
+}
+@media screen and (max-width: 860px) {
+  .favslogo {
+    width: 43%;
+  }
+}
+@media screen and (max-width: 636px) {
+  .favslogo {
+    width: 48%;
+  }
+}
+@media screen and (max-width: 534px) {
+  .favslogo {
+    width: 52%;
+  }
+}
+@media screen and (max-width: 444px) {
+  .favslogo {
+    width: 58%;
+  }
+}
+
+.nofavs {
+  width: 28%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: auto;
+}
+.title {
+  font-family: bbfont !important;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 40px;
+}

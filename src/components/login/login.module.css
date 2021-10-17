@@ -1,0 +1,126 @@
+@font-face {
+  font-family: bbfont;
+  src: url("../../assets/bbfont.ttf");
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container button {
+  padding: 12px 30px;
+  border: none;
+  margin: 20px 0px;
+  border-radius: 5px;
+  background-color: transparent;
+  color: black;
+  font-size: 1rem;
+  box-sizing: border-box;
+  transition: all 0.3s;
+  cursor: pointer;
+  border: 2px solid black;
+}
+.container button:hover {
+  background-color: red;
+  color: white;
+  border: 2px solid transparent;
+}
+
+.logo {
+  width: 28%;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.welcome {
+  font-family: bbfont !important;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 40px;
+}
+@media screen and (max-width: 1588px) {
+  .logo {
+    width: 28%;
+  }
+  .welcome {
+    font-size: 1.9rem;
+  }
+}
+@media screen and (max-width: 1450px) {
+  .logo {
+    width: 30%;
+  }
+  .welcome {
+    font-size: 1.8rem;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .logo {
+    width: 32%;
+  }
+  .welcome {
+    font-size: 1.7rem;
+  }
+}
+@media screen and (max-width: 1230px) {
+  .logo {
+    width: 35%;
+  }
+  .welcome {
+    font-size: 1.6rem;
+  }
+}
+@media screen and (max-width: 1080px) {
+  .logo {
+    width: 40%;
+  }
+  .welcome {
+    font-size: 1.6rem;
+  }
+}
+@media screen and (max-width: 860px) {
+  .logo {
+    width: 45%;
+  }
+  .welcome {
+    font-size: 1.6rem;
+  }
+}
+@media screen and (max-width: 636px) {
+  .logo {
+    width: 50%;
+  }
+  .welcome {
+    font-size: 1.6rem;
+  }
+}
+@media screen and (max-width: 534px) {
+  .logo {
+    width: 54%;
+  }
+  .welcome {
+    font-size: 1.5rem;
+  }
+}
+@media screen and (max-width: 444px) {
+  .logo {
+    width: 60%;
+  }
+  .welcome {
+    font-size: 1.4rem;
+  }
+}
+.loader {
+  width: 30%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 50px;
+}
