@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81f164fd.chunk.css",
+    "main.js": "/static/js/main.d2960bc6.chunk.js",
+    "main.js.map": "/static/js/main.d2960bc6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0c837f1f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0c837f1f.js.map",
+    "static/css/2.960da5d8.chunk.css": "/static/css/2.960da5d8.chunk.css",
+    "static/js/2.af4771c2.chunk.js": "/static/js/2.af4771c2.chunk.js",
+    "static/js/2.af4771c2.chunk.js.map": "/static/js/2.af4771c2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.960da5d8.chunk.css.map": "/static/css/2.960da5d8.chunk.css.map",
+    "static/css/main.81f164fd.chunk.css.map": "/static/css/main.81f164fd.chunk.css.map",
+    "static/js/2.af4771c2.chunk.js.LICENSE.txt": "/static/js/2.af4771c2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bbfont.eedd3a9f.ttf",
+    "static/media/cardloader.8515b04a.gif": "/static/media/cardloader.8515b04a.gif",
+    "static/media/charslogo.e708fe22.png": "/static/media/charslogo.e708fe22.png",
+    "static/media/favslogo.cb813306.png": "/static/media/favslogo.cb813306.png",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/gloader.239c01e2.gif": "/static/media/gloader.239c01e2.gif",
+    "static/media/logo.523acaa3.png": "/static/media/logo.523acaa3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c837f1f.js",
+    "static/css/2.960da5d8.chunk.css",
+    "static/js/2.af4771c2.chunk.js",
+    "static/css/main.81f164fd.chunk.css",
+    "static/js/main.d2960bc6.chunk.js"
+  ]
+}
