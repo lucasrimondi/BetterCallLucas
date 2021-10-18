@@ -24,7 +24,7 @@ CRA / React / Redux (thunk - ducks) / HTML5 / CSS3 / JS / Firebase (login - stor
 </div>
 
 <br>
-📌 Private routes created with React-Router that can only be accessed if you are logged in. <br><br>
+📌 Private routes, created with React-Router, that can only be accessed if you are logged in. <br><br>
 <div align="center">
 <img width="450" src="https://user-images.githubusercontent.com/87493125/137631301-5ec18722-a42a-4d4b-afb5-e319f76c1bb2.gif">
 </div>
