@@ -9,7 +9,7 @@
 
 ## Technologies and tools :computer:
 
-CRA / React / Redux (thunk - ducks) / HTML5 / CSS3 / JS / Firebase (login - storage - deploy) / axios / yarn - git / <a href="https://fontawesome.com/">FontAwesome</a>
+CRA / React / Redux (thunk - ducks) / Router / HTML5 / CSS3 / JS / Firebase (login - storage - deploy) / axios / yarn - git / <a href="https://fontawesome.com/">FontAwesome</a>
 
 ## Deployment 🖥️ 📲
 
